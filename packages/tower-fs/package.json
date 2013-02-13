@@ -1,0 +1,15 @@
+{
+  "name": "tower-fs",
+  "version": "0.5.0-pre",
+  "main": "./index.js",
+  "author": "Lance Pollard <lancejpollard@gmail.com>",
+  "dependencies": {
+    "wrench": "~1.4.4",
+    "glob": "~3.1.13",
+    "gaze": "~0.3.2"
+  },
+  "devDependencies": {
+    "chai": "~1.4.2",
+    "mocha": "~1.8.1"
+  }
+}
