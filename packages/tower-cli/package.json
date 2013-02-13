@@ -1,0 +1,14 @@
+{
+  "name": "tower-cli",
+  "version": "0.5.0-pre",
+  "main": "./index.js",
+  "author": "Lance Pollard <lancejpollard@gmail.com>",
+  "dependencies": {
+    "commander": "~1.1.1",
+    "benchmark": "~1.0.0"
+  },
+  "devDependencies": {
+    "chai": "~1.4.2",
+    "mocha": "~1.8.1"
+  }
+}
